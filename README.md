@@ -48,7 +48,7 @@ npm start
 * when you already have a database, you just need to take mongourl
 * Put mongourl in Procfile `worker: node . --db 'mongourl'`
 * Example `worker: node . -- db 'Your Mongo URI'`
-* Example `worker: node . -- db 'mongodb+srv://hisoka:hisokamorrow@hisoka.axmu8.mongodb.net/?retryWrites=true&w=majority'`
+* Example `worker: node . -- db 'mongodb+srv://malik:malikdev@malik.axmu8.mongodb.net/?retryWrites=true&w=majority'`
 
 
 
