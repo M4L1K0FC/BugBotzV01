@@ -1,28 +1,25 @@
 # CATATAN ( NOTE )
-Mulai saat ini, script ini tidak akan dilanjutkan lagi, jika ingin menambah sesuatu lebih baik dibuat pribadi aja, malah keren itu lhu punya tapi yang lain kaga jadi lhu bisa jual tu fitur kalo di publik di script ini mungkin kalian akan rugi sendiri, sudah susah-susah bikin code tapi malah dijual Ama yang cuma modal nyomot doang & dibuat konten yt, yutuber untung yang buat kaga, tapi terserah kalian juga kalo mau pull ya tetep saya ACC
+MOHON GUNAKAN SCRIPT INI DENGAN BIJAK, KARENA MUNGKIN BISA MERUGIKAN ORANG, BIKIN WA ORANG LAIN JADI CRASH/NGELAG
 
-Kalo mau jualan normal aja, jangan sampe nipu atau memberi harapan kosong, contohnya "dijual fitur langkah ada storenya 😱", gabaik itu, mau untung boleh tapi jangan sampe merugikan orang lain 
+SCRIPT INI TIDAK UNTUK DIJUAL. FREE KALO MAU PAKE AJA
 
 Best Regards. Hisoka
 
-# Hisoka-Morou
-Script WhatsApp Bot Multi Device
+# M4L1K0FC - BUGBOTZ
+Script WhatsApp Bot Yang Buat WA Error
 
 ## NOTE
-This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother !
+TIDAK DIPERUNTUKKAN UNTUK JAWIR YG KERJANYA NYEPAM GRUP ORANG GA BERSALAH
+
+OH IYA KALO MAU SCAN QRNYA, MENDING PAKE WA MOD, KALO PAKE WA ORI NTR YG ADA MALAH SENJATA MAKAN TUAN 
 
 <p align="center">
 	<img src="https://telegra.ph/file/09cc0981ccf07754d0af6.jpg" width="35%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
-<h1 align="center">Hisoka-Morou</h1>
+<h1 align="center">M4L1K-0FC</h1>
 
 This is Script of WhatsApp multi device, working with [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
 
-## My Project
-* New script to replace this script [`look here`](https://github.com/zhwzein/Killua-Zoldyck) (`Support Legacy or Baileys`)
-* WhatsApp Bot normal [`DikaArdnt/Hisoka-Morrow`](https://github.com/DikaArdnt/Hisoka-Morrow)
-* WhatsApp Bot Multi Device [`DikaArdnt/Hisoka-Morou`](https://github.com/DikaArdnt/Hisoka-Morou)
-* WhatsApp Bot Using Library whatsapp-web.js [`hisoka-waweb.js`](https://github.com/Hisoka-Morrou/hisoka-waweb.js/)
 
 ## HEROKU BUILDPACK
 ```bash
@@ -40,9 +37,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ```bash
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
-npm install
+git clone https://github.com/M4L1K0FC/BugBotzV01
+cd BugBotzV01
+npm start
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
@@ -62,9 +59,9 @@ apt update && apt upgrade
 apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
-git clone https://github.com/DikaArdnt/Hisoka-Morou
-cd Hisoka-Morou
-npm install
+git clone https://github.com/M4L1K0FC/BugBotzV01
+cd BugBotzV01
+npm start
 ```
 
 ## RECOMMENDED INSTALL ON TERMUX
@@ -83,13 +80,13 @@ $ node .
 WhatsApp bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`](https://github.com/DikaArdnt/Hisoka-Morou/blob/master/config.js)
+Editing Number Owner & session name in [`config.js`](https://github.com/M4L1K0FC/BugBotzV01/edit/master/config.js)
 Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 
 
 ## THANKS TO
 * [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
-* [`Nurutomo`](https://github.com/Nurutomo)
+* [`M4L1K0FC`](https://github.com/M4L1K0FC)
 * [`Mhankbarbar`](https://github.com/MhankBarBar)
 * [`Faiz`](https://github.com/FaizBastomi)
 * [`Gimenz`](https://github.com/Gimenz)
