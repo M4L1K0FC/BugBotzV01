@@ -37,9 +37,9 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 
 ```bash
-git clone https://github.com/M4L1K0FC/BugBotzV01
-cd BugBotzV01
-npm start
+$ git clone https://github.com/M4L1K0FC/BugBotzV01
+$ cd BugBotzV01
+$ npm start
 ```
 
 ## HOW TO CONNECT TO MONGODB WHEN RUN IN HEROKU
@@ -55,25 +55,27 @@ npm start
 ## FOR TERMUX/UBUNTU/SSH USER
 
 ```bash
-apt update && apt upgrade
-apt install git -y
-apt install nodejs -y
-apt install ffmpeg -y
-git clone https://github.com/M4L1K0FC/BugBotzV01
-cd BugBotzV01
-npm start
+$ apt update && apt upgrade
+$ apt install git -y
+$ apt install nodejs -y
+$ apt install ffmpeg -y
+$ git clone https://github.com/M4L1K0FC/BugBotzV01
+$ cd BugBotzV01
+$ npm start
 ```
 
 ## RECOMMENDED INSTALL ON TERMUX
 
 ```bash
-pkg install yarn
-yarn
+$ pkg install yarn
+$ yarn
 ```
 
 ## INSTALLING
 ```bash
 $ node .
+$ npm start
+$ node index.js
 ```
 
 ## ❗ WARNING
