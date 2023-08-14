@@ -56,9 +56,13 @@ $ npm start
 
 ```bash
 $ apt update && apt upgrade
+$ termux-setup-storage
 $ apt install git -y
 $ apt install nodejs -y
 $ apt install ffmpeg -y
+$ apt install imagemagick -y
+$ apt install libwebp -y
+$ apt install bash -y
 $ git clone https://github.com/M4L1K0FC/BugBotzV01
 $ cd BugBotzV01
 $ npm start
@@ -106,5 +110,5 @@ Get Apikey zenz on [`zenz`](https://zenzapis.xyz/)
 License: [MIT](https://en.wikipedia.org/wiki/MIT_License)
 
 Support Me
-* [`Paypal`](https://www.paypal.me/Cakhaho)
-* [`Saweria`](https://saweria.co/DikaArdnt)
+* [`Paypal`](https://www.paypal.me/m4l1kofc)
+* [`Contact me`](https://wa.me/6289515629775)
